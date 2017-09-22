@@ -6,26 +6,28 @@ The first three meetings will be devoted to present the projects we are working 
 papers.
 
 
-**Coordination**: Gabriel Rovere ( grovere@epi.msu.edu )  and Mengying Sun () 
+**Coordination**: Gabriel Rovere ( grovere@epi.msu.edu )  and Mengying Sun (msun@epi.msu.edu) 
 
 
 ## Schedule
 
  * **Date**: Friday, Sep 15, 2017
  * **Time**: 11:30am-12:30pm
- * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
  * **Presenter(s)**: Organizational Meeting
  * **Topic(s)**: Discuss plan for the Fall, including lab meeting and papers in progress.
- * **Materials**:
+ * **Materials**: n.a.
 
 ---
 
 
- * **Date**: Friday, Sep 15, 2017
+ * **Date**: Friday, Sep 22, 2017
  * **Time**: 11:30am-12:30pm
- * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
- * **Presenter(s)**: 
- * **Topic(s)**: 
- * **Materials**:
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
+ * **Presenter(s)**: Alex Grueneberg
+ * **Topic(s)**: Features of the new UK-Biobank 500K and details related with the policy of the research space. 
+ * **Presenter(s)**: Filipe Couto
+ * **Topic(s)**: Research results from the internship in QuantGen group 
+ * **Materials**: n.a.
 
 ---
