@@ -24,8 +24,8 @@ papers.
  * **Date**: Friday, Sep 22, 2017
  * **Time**: 11:30am-12:30pm
  * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
- * **Presenter(s)**: Alex Grueneberg
- * **Topic(s)**: Features of the new UK-Biobank 500K and details related with the policy of the research space. 
+ * **Presenter(s)**: Alexander Grueneberg
+ * **Topic(s)**: Features of the new UK-Biobank 500K and details related with the policy of the research space ([slides](https://slides.agrueneberg.info/2017-09-22-hpcc-ukb.html))
  * **Presenter(s)**: Filipe Couto
  * **Topic(s)**: Research results from the internship in QuantGen group 
  * **Materials**: n.a.
