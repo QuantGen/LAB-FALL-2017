@@ -31,3 +31,11 @@ papers.
  * **Materials**: n.a.
 
 ---
+* **Date**: Friday, Sep 29, 2017
+ * **Time**: 11:30am-12:30pm
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
+ * **Presenter(s)**: Agustin Gonzalez
+                     Raka Mandal
+                     Scott Funkhouser
+ * **Topic(s)**: Projects and goals for Fall 2017p 
+ * **Materials**: n.a.
