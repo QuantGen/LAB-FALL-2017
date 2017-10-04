@@ -37,7 +37,7 @@ papers.
  * **Presenter(s)**: Agustin Gonzalez,
                      Raka Mandal,
                      Scott Funkhouser
- * **Topic(s)**: Projects and goals for Fall 2017p 
+ * **Topic(s)**: Projects and goals for Fall 2017 
  * **Materials**: n.a.
  ---
 
@@ -49,5 +49,5 @@ papers.
  * **Presenter(s)**:   Scott Funkhouser
                        Yasir Nawasz
                        Mengying Sun
- * **Topic(s)**: Projects and goals for Fall 2017p 
+ * **Topic(s)**: Projects and goals for Fall 2017 
  * **Materials**: n.a.
