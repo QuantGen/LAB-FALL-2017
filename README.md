@@ -39,3 +39,12 @@ papers.
                      Scott Funkhouser
  * **Topic(s)**: Projects and goals for Fall 2017p 
  * **Materials**: n.a.
+ ---
+* **Date**: Friday, Oct 6, 2017
+ * **Time**: 10:00am-11:00pm
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
+ * **Presenter(s)**:   Scott Funkhouser
+                       Yasir Nawasz
+                       Mengying Sun
+ * **Topic(s)**: Projects and goals for Fall 2017p 
+ * **Materials**: n.a.
