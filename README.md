@@ -20,7 +20,7 @@ papers.
 
 ---
 
-
+ 
  * **Date**: Friday, Sep 22, 2017
  * **Time**: 11:30am-12:30pm
  * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
@@ -40,6 +40,7 @@ papers.
  * **Topic(s)**: Projects and goals for Fall 2017p 
  * **Materials**: n.a.
  ---
+ * * Attention change in the time!
 * **Date**: Friday, Oct 6, 2017
  * **Time**: 10:00am-11:00pm
  * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
