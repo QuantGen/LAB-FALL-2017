@@ -44,7 +44,7 @@ papers.
 * **Attention!! From now Fridays 10-11 a.m.** 
  
 * **Date**: Friday, Oct 6, 2017
- * **Time**: 10:00am-11:00pm
+ * **Time**: 10:00am-11:00am
  * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
  * **Presenter(s)**:   Scott Funkhouser
                        Yasir Nawasz
