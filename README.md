@@ -40,7 +40,8 @@ papers.
  * **Topic(s)**: Projects and goals for Fall 2017p 
  * **Materials**: n.a.
  ---
- * ** Attention!! From now Fridays 10-11 a.m. ** 
+
+* **Attention!! From now Fridays 10-11 a.m.** 
  
 * **Date**: Friday, Oct 6, 2017
  * **Time**: 10:00am-11:00pm
