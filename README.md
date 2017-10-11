@@ -51,3 +51,12 @@ papers.
                        Mengying Sun
  * **Topic(s)**: Projects and goals for Fall 2017 
  * **Materials**: n.a.
+ ---
+ 
+* **Date**: Friday, Oct 13, 2017
+ * **Time**: 10:00am-11:00am
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
+ * **Presenter(s)**:   Mengying Sun
+                       Marco Lopez
+ * **Topic(s)**: Projects and goals for Fall 2017 
+ * **Materials**: n.a.
