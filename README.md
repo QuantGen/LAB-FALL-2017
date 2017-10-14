@@ -35,9 +35,8 @@ papers.
  * **Time**: 11:30am-12:30pm
  * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
  * **Presenter(s)**: Agustin Gonzalez,
-                     Raka Mandal,
-                     Scott Funkhouser
- * **Topic(s)**: Projects and goals for Fall 2017 
+                     Raka Mandal
+  * **Topic(s)**: Projects and goals for Fall 2017 
  * **Materials**: n.a.
  ---
 
@@ -48,7 +47,6 @@ papers.
  * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
  * **Presenter(s)**:   Scott Funkhouser
                        Yasir Nawasz
-                       Mengying Sun
  * **Topic(s)**: Projects and goals for Fall 2017 
  * **Materials**: n.a.
  ---
@@ -59,4 +57,78 @@ papers.
  * **Presenter(s)**:   Mengying Sun
                        Marco Lopez
  * **Topic(s)**: Projects and goals for Fall 2017 
+ * **Materials**: n.a.
+
+ ---
+
+* **Date**: Friday, Oct 20, 2017
+ * **Time**: TBA
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
+ * **Presenter(s)**:   TBA
+ * **Topic(s)**: TBA
+ * **Materials**: n.a.
+ 
+  ---
+
+* **Date**: Friday, Oct 27, 2017, **We will attend the [Sci. @ the Edge](https://web.pa.msu.edu/seminars/edge/) Seminar**
+ * **Time**: 11:30-12:30
+ * **Room**: BME Building
+ * **Presenter(s)**:  Sohini Ramachandran 
+ * **Topic(s)**: Causes and Consequences of Human Genomic Variation
+ * **Materials**: Visit [Sci. @ the Edge](https://web.pa.msu.edu/seminars/edge/) website.
+
+---
+
+* **Date**: Friday, Nov 3, 2017
+ * **Time**: 11:30-12:30
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
+ * **Presenter(s)**:   TBA
+ * **Topic(s)**: TBA
+ * **Materials**: n.a.
+
+---
+
+* **Date**: Friday, Nov 10, 2017
+ * **Time**:  11:30-12:30
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
+ * **Presenter(s)**:   TBA
+ * **Topic(s)**: TBA
+ * **Materials**: n.a.
+ 
+ ---
+
+* **Date**: Friday, Nov 17th, 2017
+ * **Time**:  11:30-12:30
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
+ * **Presenter(s)**:   TBA
+ * **Topic(s)**: TBA
+ * **Materials**: n.a.
+
+
+---
+
+* **Date**: Friday, Nov 24th, 2017
+ * **Time**:  11:30-12:30
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
+ * **Presenter(s)**:   TBA
+ * **Topic(s)**: TBA
+ * **Materials**: n.a.
+ 
+ ---
+
+* **Date**: Friday, Dec 1st, 2017
+ * **Time**:  11:30-12:30
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
+ * **Presenter(s)**:   TBA
+ * **Topic(s)**: TBA
+ * **Materials**: n.a.
+
+
+ ---
+
+* **Date**: Friday, Dec 8th, 2017
+ * **Time**:  11:30-12:30
+ * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
+ * **Presenter(s)**:   TBA
+ * **Topic(s)**: TBA
  * **Materials**: n.a.
