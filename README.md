@@ -68,7 +68,7 @@ papers.
  * **Topic(s)**: TBA
  * **Materials**: n.a.
  
-  ---
+ ---
 
 * **Date**: Friday, Oct 27, 2017, **We will attend the [Sci. @ the Edge](https://web.pa.msu.edu/seminars/edge/) Seminar**
  * **Time**: 11:30-12:30
@@ -82,18 +82,18 @@ papers.
 * **Date**: Friday, Nov 3, 2017
  * **Time**: 11:30-12:30
  * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
- * **Presenter(s)**:   TBA
- * **Topic(s)**: TBA
+ * **Presenter(s)**:   Gabriel Rovere & Marco Lopez-Cruz
+ * **Topic(s)**: Analysis of multi-dimentional phenotypes (hyerspectral image data in crops and Furier-Transformed Mid-Infrared Spectra in Milk) 
  * **Materials**: n.a.
 
 ---
 
-* **Date**: Friday, Nov 10, 2017
- * **Time**:  11:30-12:30
- * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
- * **Presenter(s)**:   TBA
- * **Topic(s)**: TBA
- * **Materials**: n.a.
+* **Date**: Friday, Nov 10, 2017  **We will attend the [Sci. @ the Edge](https://web.pa.msu.edu/seminars/edge/) Seminar**
+ * **Time**: 11:30-12:30
+ * **Room**: BME Building
+ * **Presenter(s)**:  Rongling Wu
+ * **Topic(s)**: Statistical Genetics and Genomics 
+ * **Materials**: Visit [Sci. @ the Edge](https://web.pa.msu.edu/seminars/edge/) website.
  
  ---
 
@@ -103,7 +103,6 @@ papers.
  * **Presenter(s)**:   TBA
  * **Topic(s)**: TBA
  * **Materials**: n.a.
-
 
 ---
 
