@@ -62,7 +62,7 @@ papers.
  ---
 
 * **Date**: Friday, Oct 20, 2017
- * **Time**: TBA
+ * **Time**: 10:00 - 11:00 a.m.
  * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
  * **Presenter(s)**:   TBA
  * **Topic(s)**: TBA
@@ -82,8 +82,8 @@ papers.
 * **Date**: Friday, Nov 3, 2017
  * **Time**: 11:30-12:30
  * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
- * **Presenter(s)**:   Gabriel Rovere & Marco Lopez-Cruz
- * **Topic(s)**: Analysis of multi-dimentional phenotypes (hyerspectral image data in crops and Furier-Transformed Mid-Infrared Spectra in Milk) 
+ * **Presenter(s)**: Torsten Pook. Animal Breeding and Genetics. University of Goettingen. Germany
+ * **Topic(s)**: "Construction of subgroup specific haplotype blocks and libraries"
  * **Materials**: n.a.
 
 ---
@@ -100,8 +100,8 @@ papers.
 * **Date**: Friday, Nov 17th, 2017
  * **Time**:  11:30-12:30
  * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
- * **Presenter(s)**:   TBA
- * **Topic(s)**: TBA
+ * **Presenter(s)**:   Marco Lopez & Gabriel Rovere
+ * **Topic(s)**: Analysis of multi-dimentional phenotypes (hyerspectral image data in crops and Furier-Transformed Mid-Infrared Spectra in Milk) 
  * **Materials**: n.a.
 
 ---
