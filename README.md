@@ -98,36 +98,45 @@ papers.
  ---
 
 * **Date**: Friday, Nov 17th, 2017
- * **Time**:  11:30-12:30
- * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
- * **Presenter(s)**:   Marco Lopez & Gabriel Rovere
- * **Topic(s)**: Analysis of multi-dimentional phenotypes (hyerspectral image data in crops and Furier-Transformed Mid-Infrared Spectra in Milk) 
- * **Materials**: n.a.
+ * **Time**:  No Meeting
+ * **Room**: 
+ * **Presenter(s)**:   
+ * **Topic(s)**: 
+ * **Materials**: 
 
 ---
 
 * **Date**: Friday, Nov 24th, 2017
- * **Time**:  11:30-12:30
- * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
- * **Presenter(s)**:   TBA
- * **Topic(s)**: TBA
- * **Materials**: n.a.
+ * **Time**:  Thanksgiving week - No meeting
+ * **Room**: 
+ * **Presenter(s)**:   
+ * **Topic(s)**: 
+ * **Materials**:
  
  ---
 
-* **Date**: Friday, Dec 1st, 2017
+* **Date**: Friday, Dec 1st, 2017 **We will attend the [Sci. @ the Edge](https://web.pa.msu.edu/seminars/edge/) Seminar**
  * **Time**:  11:30-12:30
- * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
- * **Presenter(s)**:   TBA
- * **Topic(s)**: TBA
- * **Materials**: n.a.
+ * **Room**: Room 1400 Biomedical & Physical Sciences Building 
+ * **Presenter(s)**:   Arjun Krishnan
+ * **Topic(s)**: Nobody Knew Things Were This Complicated: Data-driven Insights On Complex Disease
+ * **Materials**: Visit [Sci. @ the Edge](https://web.pa.msu.edu/seminars/edge/) website.
+ 
+  ---
+
+* **Date**: Thursday, Dec 7st, 2017 **We will have a guest PhD student from North Carolina State University**
+ * **Time**:  11:30-12:30
+ * **Room**: 
+ * **Presenter(s)**:   Fabio Morgante
+ * **Topic(s)**: 
+ * **Materials**: 
 
 
  ---
 
-* **Date**: Friday, Dec 8th, 2017
+* **Date**: Friday, Dec 8th, 2017 **We will attend the [Sci. @ the Edge](https://web.pa.msu.edu/seminars/edge/) Seminar**
  * **Time**:  11:30-12:30
- * **Room**: BEF-IQ Conference Room 1000, 775 Woodlot Dr., East Lansing, MI  48824
- * **Presenter(s)**:   TBA
- * **Topic(s)**: TBA
- * **Materials**: n.a.
+ * **Room**: Room 1400 Biomedical & Physical Sciences Building 
+ * **Presenter(s)**:   Wen Huang 
+ * **Topic(s)**: Genetics of Complex Quantitative Traits
+ * **Materials**: Visit [Sci. @ the Edge](https://web.pa.msu.edu/seminars/edge/) website.
