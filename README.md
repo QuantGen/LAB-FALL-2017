@@ -125,10 +125,10 @@ papers.
   ---
 
 * **Date**: Thursday, Dec 7st, 2017 **We will have a guest PhD student from North Carolina State University**
- * **Time**:  11:30-12:30
- * **Room**: 
+ * **Time**:  14:30-15:30
+ * **Room**: 3000
  * **Presenter(s)**:   Fabio Morgante
- * **Topic(s)**: 
+ * **Topic(s)**: "Effect of Genetic Architecture on the Accuracy of Genomic Prediction in Samples of Unrelated Individuals"
  * **Materials**: 
 
 
