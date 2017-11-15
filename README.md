@@ -124,7 +124,7 @@ papers.
  
   ---
 
-* **Date**: Thursday, Dec 7st, 2017 **We will have a guest PhD student from North Carolina State University**
+* **Date**: Thursday, Dec 7th, 2017 **We will have a guest PhD student from North Carolina State University**
  * **Time**:  14:30-15:30
  * **Room**: 3000
  * **Presenter(s)**:   Fabio Morgante
