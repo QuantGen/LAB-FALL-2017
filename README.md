@@ -126,7 +126,7 @@ papers.
 
 * **Date**: Thursday, Dec 7th, 2017 **We will have a guest PhD student from North Carolina State University**
  * **Time**:  14:30-15:30
- * **Room**: 3000
+ * **Room**: BEF-IQ Conference Room 3000, 775 Woodlot Dr., East Lansing, MI  48824
  * **Presenter(s)**:   Fabio Morgante
  * **Topic(s)**: "Effect of Genetic Architecture on the Accuracy of Genomic Prediction in Samples of Unrelated Individuals"
  * **Materials**: 
